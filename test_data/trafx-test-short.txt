@@ -1,0 +1,162 @@
+D
+>>>>>>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+G4 Dock:_B4.41_C2.78_F8127
+=DOCK TIME (yy-mm-dd hh:mm):22-08-01 14:17:12
+Counter log start
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+System check...
+*****V9.4d S/N190304 (c) 2001-2018*****
+TRAFx Research Ltd. www.trafx.net
+Fx:F6E0R1M3T2T_c26f26L33LN4P0A0E2_m064I2_d
+
+Sets:N:H:001:008:M:008:000:F:Y:S:016:000:N:000
+
+  *Serial Number  :1904Dz
+  *Counter name   :Malarrif            
+  *Mode           :Vehicle (VEH-4d)
+  *Batt. voltage  :3.7
+  *Stored records :00485
+
+=TIME (yy-mm-dd hh:mm):22-08-01,14:17:24
+=START(yy-mm-dd hh:mm):22-07-12,12:00
+PERIOD (1/24/0=Timestamps) :001
+DELAY     (see manual)     :008
+THRESHOLD (see manual)     :008
+RATE (Fast/Slow)           :S
+
+Calibration:05727
+22-07-12,12:00,00077
+22-07-12,13:00,00053
+22-07-12,14:00,00057
+22-07-12,15:00,00043
+22-07-12,16:00,00040
+22-07-12,17:00,00036
+22-07-12,18:00,00018
+22-07-12,19:00,00015
+22-07-12,20:00,00003
+
+
+END OF DATA
+  -close data file
+  -then check it
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+G4 Dock:_B4.39_C2.78_F8114
+=DOCK TIME (yy-mm-dd hh:mm):22-08-01 14:17:41
+Counter log end
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<<<<<<
+
+>>>>>>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+G4 Dock:_B4.40_C2.77_F8114
+=DOCK TIME (yy-mm-dd hh:mm):22-08-01 14:40:54
+Counter log start
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+System check...
+*****V9.0d S/N160323 (c) 2001-2014*****
+TRAFx Research Ltd. www.trafx.net
+Fx:F6E0R1M3T2T_c26f26L33LN4P0A0E2_m064I2_d
+
+Sets:N:H:001:008:M:012:000:F:Y:F:016:000:N:000
+
+  *Serial Number  :1604Ae
+  *Counter name   :Dagverdara          
+  *Mode           :Vehicle (VEH-4d)
+  *Batt. voltage  :3.2
+  *Stored records :00485
+
+=TIME (yy-mm-dd hh:mm):22-08-01,14:40:48
+=START(yy-mm-dd hh:mm):22-07-12,12:00
+PERIOD (1/24/0=Timestamps) :001
+DELAY     (see manual)     :008
+THRESHOLD (see manual)     :012
+RATE (Fast/Slow)           :F
+
+Calibration:03144
+22-07-12,12:00,00097
+22-07-12,13:00,00100
+22-07-12,14:00,00106
+22-07-12,15:00,00094
+22-07-12,16:00,00098
+22-07-12,17:00,00077
+22-07-12,18:00,00061
+22-07-12,19:00,00028
+22-07-12,20:00,00021
+22-07-12,21:00,00013
+22-07-12,22:00,00011
+22-07-12,23:00,00003
+
+
+END OF DATA
+  -close data file
+  -then check it
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+G4 Dock:_B4.40_C2.77_F8100
+=DOCK TIME (yy-mm-dd hh:mm):22-08-01 14:41:22
+Counter log end
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<<<<<<
+
+>>>>>>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+G4 Dock:_B4.40_C2.77_F8100
+=DOCK TIME (yy-mm-dd hh:mm):22-08-01 15:58:11
+Counter log start
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+System check...
+*****V9.0d S/N091117 (c) 2001-2009*****
+TRAFx Research Ltd. www.trafx.net
+Fx:F6E0R1M2T2T_c26f26L33LN4P0A0E2_m064I2_d
+
+Sets:N:H:001:008:M:012:000:F:Y:S:016:000:N:000
+
+  *Serial Number  :1005Jd
+  *Counter name   :Djupalonssandur     
+  *Mode           :Vehicle (VEH-4d)
+  *Batt. voltage  :3.4
+  *Stored records :00487
+
+=TIME (yy-mm-dd hh:mm):22-08-01,15:58:16
+=START(yy-mm-dd hh:mm):22-07-12,11:00
+PERIOD (1/24/0=Timestamps) :001
+DELAY     (see manual)     :008
+THRESHOLD (see manual)     :012
+RATE (Fast/Slow)           :S
+
+Calibration:03647
+22-07-12,11:00,00063
+22-07-12,12:00,00112
+22-07-12,13:00,00097
+22-07-12,14:00,00105
+22-07-12,15:00,00108
+22-07-12,16:00,00092
+
+
+
+END OF DATA
+  -close data file
+  -then check it
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+G4 Dock:_B4.39_C2.77_F8058
+=DOCK TIME (yy-mm-dd hh:mm):22-08-02 09:31:55
+Counter log end
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<<<<<<
+
+
+Dock: SHUTTLE Mode!
+V 4.15 S/N190425 (c)2017
+TRAFx Research Ltd. www.trafx.net
+G4 Dock:_R2A-RI_B4.38_C0.00_F8058
+
+Stored counter logs   :5
+Dock memory used (%)  :1
+Dock battery voltage  :4.4
+
+=DOCK TIME (yy-mm-dd hh:mm):22-08-02 10:27:22
+
+====================================
+C_onfigure, V_iew, D_ownload, E_rase
+====================================
+++ ENTER COMMAND ++>>
